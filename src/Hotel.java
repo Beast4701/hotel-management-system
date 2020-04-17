@@ -9,5 +9,6 @@ public class Hotel
 	System.out.println("Welcome........!");
         Control c = new Control();
         c.login();
+	System.out.println("Thanks for visiting....!");
     }
 }
